@@ -1,0 +1,58 @@
+.header {
+    padding: 1px;
+    background: #5E973C;
+    font-size: 15px;
+  }
+h1{
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+li a {
+    color: black;
+    padding: 25px;
+    text-decoration: none;
+    display: block;
+    width: 100%;
+}
+li a:hover{
+    color: whitesmoke;
+}
+.mois{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    line-height: 4em;
+    word-spacing: 10rem;
+    margin: 100px;
+    border-bottom: 10px solid;
+    background: #BAE498;
+    color: #437A16;
+    
+}
+
+p {
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    line-height: 1.4;
+   }
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+    color: black;
+   }
